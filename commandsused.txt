@@ -1,0 +1,9 @@
+1. created local repository
+2. git init
+3. created .txt file inside folder and run the git status command
+4. git remote add origin <repo_url>
+5. git config --global user.name '<username>'
+6.  git config --global user.email '<email>'
+5. git checkout -b staging
+6.git branch -M staging
+7. git push -u origing staging
